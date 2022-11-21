@@ -1,0 +1,25 @@
+.section4 {
+  width: 90%;
+  max-width: 400px;
+  margin: 0 auto;
+  background-color: #fff;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  padding-top: 20px;
+}
+.section4 button {
+  width: 90%;
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 15px;
+  border-radius: 10px;
+  background-color: blue;
+  color: #fff;
+  border: none;
+}
+.section4 p {
+  /* background-color: #fff; */
+  
+  color: grey;
+  padding: 20px;
+}
